@@ -1,5 +1,5 @@
 {
-    "name": "thujohn/analytics",
+    "name": "kinetikk/analytics",
     "description": "Google Analytics for Laravel 4",
 	"keywords": ["google", "analytics", "laravel", "laravel4"],
     "license": "MIT",
@@ -12,7 +12,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.x",
-        "google/apiclient" : "1.0.*@beta"
+        "kinetikk/google-apiclient" : "dev-master"
     },
     "autoload": {
         "psr-0": {
